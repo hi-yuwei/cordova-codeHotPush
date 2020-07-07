@@ -88,4 +88,4 @@
 
 [Link2](https://juejin.im/entry/5c3c5e4b51882524c84ec33a)`重点`
 
-[Link3](<[http://www.huangwenchao.com.cn/2017/04/cordova-%E4%BB%A3%E7%A0%81%E7%83%AD%E6%9B%B4%E6%96%B0%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.html](http://www.huangwenchao.com.cn/2017/04/cordova-代码热更新解决方案.html)>)
+[Link3](http://www.huangwenchao.com.cn/2017/04/cordova-代码热更新解决方案.html)
